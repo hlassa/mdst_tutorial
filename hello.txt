@@ -1,0 +1,7 @@
+Hey guys!
+
+I'm Henry, and I'm currently a sophomore studying data science and entrepreneurship. 
+Most of my coding knowledge is currently based in C++ and R, so I'm excited to start learning python,
+especially for how applicable it is in data science. I hope to start some personal DS projects in the future.
+In my free time, I love to work out and watch sports. My true passion is entrepreneurship, and 
+I hope to start my own company or work for a start up in the future. Can't wait to meet everyone!
